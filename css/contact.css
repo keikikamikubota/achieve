@@ -1,0 +1,32 @@
+.contact tr{
+    height: 7rem;
+    margin-right: 10px;
+   
+
+}
+.contact th{
+    width: 150px;
+    text-align: right;
+}
+
+.contact td{
+    margin-left: 10px;
+}
+
+.form-box{
+    width: 480px;
+}
+
+.submit-btn{
+    margin: 0 auto;
+    display: block;
+    font-size: 3rem;
+    padding: 10px;
+    background-color:#008b8b;
+    color: white;
+    border: none;
+}
+
+.submit-btn:hover{
+    opacity: 0.5;
+}
