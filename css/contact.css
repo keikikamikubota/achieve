@@ -25,7 +25,7 @@
     background-color:#008b8b;
     color: white;
     border: none;
-    text-align: center;
+    float: center;
 }
 
 .submit-btn:hover{
